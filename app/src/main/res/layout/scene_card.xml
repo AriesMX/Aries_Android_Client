@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/fr_scene_card_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/card_padding"
+        android:paddingBottom="@dimen/card_padding_bottom">
+
+        <ImageView
+            android:id="@+id/fr_scene_card_preview_image_url"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/scene_cover_height"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/fr_scene_card_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fr_scene_card_preview_image_url"
+            android:paddingLeft="@dimen/scene_title_padding"
+            android:paddingRight="@dimen/scene_title_padding"
+            android:paddingTop="@dimen/scene_title_padding"
+            android:textColor="@color/scene_title"
+            android:textSize="@dimen/scene_title" />
+
+        <TextView
+            android:id="@+id/fr_scene_card_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fr_scene_card_title"
+            android:paddingBottom="@dimen/scene_count_padding_bottom"
+            android:paddingLeft="@dimen/scene_title_padding"
+            android:paddingRight="@dimen/scene_title_padding"
+            android:textSize="@dimen/scene_count" />
+
+        <ImageView
+            android:id="@+id/fr_scene_card_menu"
+            android:layout_width="@dimen/ic_scene_overflow_width"
+            android:layout_height="@dimen/ic_scene_overflow_height"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/fr_scene_card_preview_image_url"
+            android:layout_marginRight="@dimen/ic_scene_overflow_margin_right"
+            android:layout_marginTop="@dimen/ic_scene_overflow_margin_top"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_menu_share" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/fr_scene_card_parent"
+        android:layout_marginBottom="0dp"
+        android:background="#90909090" />
+</LinearLayout>

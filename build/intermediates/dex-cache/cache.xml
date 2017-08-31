@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Melitón\.android\build-cache\03aa12f36f50f8ad64fa80303af90135ead0aef6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10\classes_08998fc7b1ea01cb4e2bb0f2b13b72b63ffce4f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\incremental-classes\development\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c185f724f695c66229aa901808000ba892be329">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10000\instant-run-bootstrap_0a5cf08162be2386d749bba9ae0fcc938b4e018b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\development\debug\gson-2.8.1_144df6bc5ee904cdc40b8c6b7fec285fedd98f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\9bcdf4b14406d9a322ff5f65a22d97bb4b6d388c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_57a5aa892a5c1c11ce3fefca3ca67902f46fd146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\bf57d7d9255f5b397b565c5916e6330ab96a53d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_8cc119a8b66049b722345e1d3cca31413f0dbfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\03aa12f36f50f8ad64fa80303af90135ead0aef6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\development\debug\classes_08998fc7b1ea01cb4e2bb0f2b13b72b63ffce4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\09405e390998ed6e8ea640d53477b3dfe268beeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\development\debug\classes_7cdeba0f329484b92146d3e96190f6023649b7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\ead806816eb66e925a002fb2930e951057b155c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_dcd78b9037e8046e86849c7beb9f4ad0e2693585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\c4dfe1ede0627e9027ddf8832611f7475bcf97e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_124852d3bf9bf0fc86e5c9324f0022a6c30dcaa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_828a1b0f81eb63b0e14cc5711f942e30d5aa4df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cd21c22961ae15c3b2c0be36ed9edacda30d7918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\3c0a537999122f728a98b0112d05be54ebed822c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_f6e79526e8714ac535b3cbc92f345066a07c6c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\6738ae8842fde010c2d400444a0a34d55e6a62fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_a8c3f8e604a32178e5a57df020bac1f5ba492beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\e15f14bf9abcfae757908c44c0dfd914906ccc29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_4e1b8649b282577dfd3481e66b79af9bfd6e1abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\00382b82aa3ed6230b6b64ff32a5594589e92b19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_96610fcf011c33fde4fc24ac1bf7a1fde01ac8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\ad7667f437f88dd7cc6758756442025d2bd2edd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_302173a4d943d2d0d35f6a3dacb2033a020fa99e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\1c00ebda3f433c145ebfcecf015d7311d7e7cb56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\development\debug\classes_af66a645fbfeca1bf5637a71dbd3017e68d5b5ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\9259de3c9e7d391bc2256634f00f8e84183cbf26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_16ef4168393fbd5465e782b1624901ac6276cf8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\incremental-runtime-classes\development\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10000\instant-run_372a1eaaf83a9dc26c7e741fad62ff25a6f03a43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Melitón\.android\build-cache\1c00ebda3f433c145ebfcecf015d7311d7e7cb56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10\classes_af66a645fbfeca1bf5637a71dbd3017e68d5b5ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\library-1.0.19_433551313da29d0652074bb2656c6037ca267b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\42ad3144fca88a0f7068e959c8bf7df5fe422345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_fac5eeef5ebb414187c542181a27617354bfcafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\6729e7c4306d244b9ec3fa30074bc25420ad1444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_15e33b48be8b846a7801a77d86959c6132e59620.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Melitón\.android\build-cache\09405e390998ed6e8ea640d53477b3dfe268beeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10\classes_7cdeba0f329484b92146d3e96190f6023649b7fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\c6aa33c9ff963a405f533e68a6e80bcf8d68ba3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_1a20fdcb988b2f79601547c403b61dfd2d485257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\7cf5448704f9d42440f363000c78697d41461251\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\classes_8ac0135ff6296cde82ff13a5505ecdb7f188f72f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Melitón\.android\build-cache\e63729389db6cc5625829f9884d17a6c91b007b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\transforms\dex\development\debug\folders\1000\10\classes_46e43fcaffc573ff180f22de63443903418e8c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\debug\glide-3.7.0_88c6ad5b7719f5033e58a20846339a6b31c2e403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melitón\.android\build-cache\e63729389db6cc5625829f9884d17a6c91b007b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Personal\Empresas\Aries\ProyectoAries\5Codigo\Frontend\Android\app\build\intermediates\pre-dexed\development\debug\classes_46e43fcaffc573ff180f22de63443903418e8c4a.jar" />
+    </item>
+
+</items>

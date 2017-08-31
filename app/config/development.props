@@ -1,0 +1,2 @@
+WEB_API_URL="http://192.168.15.194:8093/api/"
+TEST_URL="http://www.siats.cdmx.gob.mx/rest/ConsultaCiudadano.ashx?metodo=ObtenerSedesCaptura&vu=false"
