@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 public class SharedPreferenceUtil {
-    private static SharedPreferenceUtil mSharedPreferenceUtils;
+    private static SharedPreferenceUtil mSharedPreferenceUtil;
     protected Context mContext;
     private SharedPreferences mSharedPreferences;
     private SharedPreferences.Editor mSharedPreferencesEditor;
@@ -23,10 +23,10 @@ public class SharedPreferenceUtil {
      */
     public static synchronized SharedPreferenceUtil getInstance(Context context) {
 
-        if (mSharedPreferenceUtils == null) {
-            mSharedPreferenceUtils = new SharedPreferenceUtil(context.getApplicationContext());
+        if (mSharedPreferenceUtil == null) {
+            mSharedPreferenceUtil = new SharedPreferenceUtil(context.getApplicationContext());
         }
-        return mSharedPreferenceUtils;
+        return mSharedPreferenceUtil;
     }
 
     /**
