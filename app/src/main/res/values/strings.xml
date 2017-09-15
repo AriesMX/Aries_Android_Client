@@ -19,12 +19,6 @@
     <string name="scene_fragment_card_menu_1">Menu1</string>
     <string name="scene_fragment_card_menu_2">Menu2</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-    <string name="title_activity_scene">SceneActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="scene_activity_save_scene">Guardar</string>
     <string name="save_scene_activity_title">Título</string>
     <string name="save_scene_activity_description">Descripción</string>
@@ -37,19 +31,4 @@
     <string name="main_activity_location_permission_denied_dialog_description">Sin permisos de localización no podras compartir tu escena</string>
     <string name="main_activity_location_permission_denied_cancel_button">Cancelar</string>
     <string name="main_activity_location_permission_denied_ok_button">Configuración</string>
-
-
-    <string name="hello">Hello World, ASimpleAppUsingARActivity!</string>
-    <string name="xAxis">X Axis:</string>
-    <string name="yAxis">Y Axis:</string>
-    <string name="zAxis">Z Axis:</string>
-    <string name="heading">Heading:</string>
-    <string name="pitch">Pitch:</string>
-    <string name="roll">Roll:</string>
-    <string name="altitude">Altitude:</string>
-    <string name="longitude">Longitude:</string>
-    <string name="latitude">Latitude:</string>
-    <string name="empty"></string>
-    <string name="help">This is the example app from Chapter 6 of Pro Android Augmented Reality. This app outlines some of the basic features of Augmented Reality and how to implement them in real world applications.</string>
-    <string name="helpLabel">Help</string>
 </resources>
