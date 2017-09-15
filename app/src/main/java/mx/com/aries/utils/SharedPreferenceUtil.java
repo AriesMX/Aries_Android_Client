@@ -11,7 +11,7 @@ public class SharedPreferenceUtil {
 
     private SharedPreferenceUtil(Context context) {
         mContext = context;
-        mSharedPreferences = context.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE);
+        mSharedPreferences = context.getSharedPreferences("AppPreferences", Context.MODE_PRIVATE);
         mSharedPreferencesEditor = mSharedPreferences.edit();
     }
 
